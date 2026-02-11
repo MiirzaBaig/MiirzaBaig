@@ -1,13 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiirzaBaig/MiirzaBaig/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiirzaBaig/MiirzaBaig/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MiirzaBaig/MiirzaBaig/output/github-snake-dark.svg" />
-</picture>
-
 <div align="center">
 
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mirza%20Baig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+  <!-- Animated 3D Header -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mirza%20Baig&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
+
+  <!-- Animated Matrix Banner -->
+  <img width="100%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
