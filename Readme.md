@@ -171,14 +171,16 @@ i've shipped across **hospitality platforms, proptech dashboards, payment system
 
 <div align="center">
 
+<!-- stats card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&bg_color=00000000&count_private=true&include_all_commits=true&ring_color=ec4899" />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </picture>
 &nbsp;
+<!-- top langs -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MiirzaBaig&theme=transparent&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&stroke=00000000&background=00000000" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MiirzaBaig&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MiirzaBaig&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=00000000&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiirzaBaig&layout=compact&hide_border=true&langs_count=6" />
 </picture>
 
 <br/><br/>
