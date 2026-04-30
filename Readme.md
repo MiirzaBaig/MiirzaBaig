@@ -5,12 +5,12 @@
 
 <!-- typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=30&lines=full-stack+engineer+%C2%B7+ai-native+builder+%C2%B7+vibe+coder;shipping+saas+%C2%B7+agents+%C2%B7+backend+systems;next.js+%2B+typescript+%2B+postgres+%2B+vercel" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=30&lines=full-stack+engineer+%C2%B7+ai-native+builder+%C2%B7+vibe+coder;shipping+saas+%C2%B7+agents+%C2%B7+backend+systems;next.js+%2B+typescript+%2B+postgres+%2B+vercel;probably+deploying+something+rn+%F0%9F%9A%80" />
 </a>
 
 <br/>
 
-<!-- badges -->
+<!-- social badges -->
 <a href="https://linkedin.com/in/mirza-baig-590b1826b"><img src="https://img.shields.io/badge/-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mirza.devs@gmail.com"><img src="https://img.shields.io/badge/-email%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://aithesiswriter.io"><img src="https://img.shields.io/badge/-my%20saas%20%E2%86%97-000?style=flat-square&logo=vercel&logoColor=white" /></a>
@@ -26,23 +26,41 @@
 
 </div>
 
-<br/>
+<!-- animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## `> whoami`
 
-senior full-stack dev who actually ships. i write backends, design schemas, wire up payments, build ai agent pipelines, and review every line before it hits prod. most of my work is in private repos — client projects, enterprise codebases, stuff i can't show here.
+```
+ name:     mirza baig
+ role:     senior full-stack engineer
+ focus:    backends, ai agents, payment systems
+ mode:     ai-native (claude code + cursor daily)
+ location: india (open to remote / relocation)
+ status:   probably shipping something rn
+```
+
+i write backends, design schemas, wire up payments, build ai agent pipelines, and review every line before it hits prod. most of my work is in private repos — client projects, enterprise stuff, things i can't show here.
 
 i use **claude code** and **cursor** daily. not as a crutch — as a multiplier. i write the architecture, ai writes the boilerplate, i review everything.
 
-**based in india** · down for remote · open to relocation
-
-<br/>
+<!-- animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## `> tech --stack`
 
+<div align="center">
+
+<!-- tech icons -->
+<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,postgres,supabase,prisma,redis,docker,vercel,github,vscode&theme=dark&perline=15" />
+
+</div>
+
+<br/>
+
 ```js
 const mirza = {
-  code:        ["TypeScript", "JavaScript", "Python", "SQL"],
+  languages:   ["TypeScript", "JavaScript", "Python", "SQL"],
   frontend:    ["Next.js (App Router)", "React", "Tailwind CSS"],
   backend:     ["Node.js", "Supabase", "Prisma", "REST", "GraphQL"],
   data:        ["PostgreSQL", "Redis", "Supabase RLS"],
@@ -54,7 +72,21 @@ const mirza = {
 };
 ```
 
-<br/>
+<!-- animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> currently`
+
+```diff
++ building my saas (aithesiswriter.io) — growing users, adding features
++ exploring durable ai agent workflows
++ contributing to open source when i can
++ looking for the right remote/onsite opportunity
+- not mass-applying to jobs (i pick teams that ship)
+```
+
+<!-- animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## `> ls ./shipped`
 
@@ -67,12 +99,12 @@ const mirza = {
 my actual saas product. generates full academic papers.
 
 ```
-→  19 ai agents in one pipeline
-→  stripe billing (free/starter/pro)
-→  pdf + docx export
-→  real citations, not hallucinated ones
-→  57+ languages
-→  essay to phd dissertation
+ 19 ai agents in one pipeline
+ stripe billing (free / starter / pro)
+ pdf + docx export
+ real citations, not hallucinated ones
+ 57+ languages
+ essay to phd dissertation
 ```
 
 `next.js` `typescript` `stripe` `supabase` `ai sdk`
@@ -85,11 +117,11 @@ my actual saas product. generates full academic papers.
 real-time l2 rollup observability dashboard.
 
 ```
-→  on-chain data via viem + fallback rpcs
-→  ai agent for querying chain metrics
-→  eip-1559 fee trend visualization
-→  block production monitoring
-→  pdf health reports
+ on-chain data via viem + fallback rpcs
+ ai agent for querying chain metrics
+ eip-1559 fee trend visualization
+ block production monitoring
+ pdf health reports
 ```
 
 `next.js 15` `typescript` `viem` `tanstack query` `ai sdk`
@@ -104,10 +136,10 @@ real-time l2 rollup observability dashboard.
 ai that controls a browser by itself. yeah.
 
 ```
-→  computer use via ai sdk
-→  real-time action streaming
-→  screenshot capture loop
-→  autonomous navigation
+ computer use via ai sdk
+ real-time action streaming
+ screenshot capture loop
+ autonomous navigation
 ```
 
 `next.js` `typescript` `ai sdk` `vercel`
@@ -120,10 +152,10 @@ ai that controls a browser by itself. yeah.
 interactive math platform for students.
 
 ```
-→  adaptive problem generation
-→  progress tracking
-→  clean accessible ui
-→  built in a weekend tbh
+ adaptive problem generation
+ progress tracking
+ clean accessible ui
+ built in a weekend tbh
 ```
 
 `next.js` `typescript`
@@ -140,7 +172,8 @@ i've shipped across **hospitality platforms, proptech dashboards, payment system
 
 </details>
 
-<br/>
+<!-- animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## `> cat ./ai-workflow.md`
 
@@ -165,19 +198,19 @@ i've shipped across **hospitality platforms, proptech dashboards, payment system
 └─────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+<!-- animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## `> git log --graph`
 
 <div align="center">
 
-<!-- stats card -->
+<!-- stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&bg_color=00000000&count_private=true&include_all_commits=true&ring_color=ec4899" />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </picture>
 &nbsp;
-<!-- top langs -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MiirzaBaig&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=00000000&langs_count=6" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiirzaBaig&layout=compact&hide_border=true&langs_count=6" />
@@ -193,6 +226,15 @@ i've shipped across **hospitality platforms, proptech dashboards, payment system
 
 <br/><br/>
 
+<!-- snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiirzaBaig/MiirzaBaig/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiirzaBaig/MiirzaBaig/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MiirzaBaig/MiirzaBaig/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/psst-most%20of%20my%20commits%20are%20in%20private%20repos-1a1b27?style=flat-square&labelColor=1a1b27&color=6366f1"/>
 
 <br/><br/>
@@ -202,15 +244,22 @@ i've shipped across **hospitality platforms, proptech dashboards, payment system
 
 </div>
 
-<br/>
+<!-- animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## `> echo "let's talk"`
 
 <div align="center">
 
-building something cool? need a backend brain? want someone who actually reviews ai output before merging?
+building something cool? need a backend brain who actually reviews ai output before merging?
 
 **[hit me up](mailto:mirza.devs@gmail.com)** · **[linkedin](https://linkedin.com/in/mirza-baig-590b1826b)** · **[check my saas](https://aithesiswriter.io)**
+
+<br/>
+
+```
+  "talk is cheap. show me the deployed app." — me, mass deploying at 2am
+```
 
 <br/>
 
