@@ -60,28 +60,40 @@ Most of my work lives in private repositories across client and enterprise codeb
 
 ## Featured Projects
 
-### Tokamak Chain Monitor — L2 Observability Platform
-> Real-time observability platform for Tokamak L2 rollup chains
+### [AI Thesis Writer](https://aithesiswriter.io) — Live SaaS Product
+> AI-powered thesis generation platform serving students across 57+ languages
 
-- Engineered live network analytics, health monitoring, and activity tracking for L2 rollup infrastructure
-- On-chain data pipelines via Viem RPC clients with resilient fallback mechanisms
-- AI-powered analysis agent with tool-based architecture for natural-language querying of chain metrics
-- Cross-chain analytics dashboards, EIP-1559 fee visualization, block production monitoring
-- Client-side PDF export for chain health reports
+- **19-agent orchestration pipeline** — research, writing, citation, and formatting agents working in sequence to produce full academic papers
+- Stripe integration — subscription billing, checkout sessions, webhook lifecycle, tiered pricing (Free / Starter / Pro)
+- Multi-format export system (PDF + DOCX) with submission-ready formatting
+- Real citation engine with inline references and auto-generated bibliographies
+- Supports essay through PhD dissertation length (~5k–80k words)
+- Low AI-detectability mode on premium tier
 
-**Stack:** Next.js 15, TypeScript, Viem, TanStack Query, Tailwind CSS, AI SDK
+**Stack:** Next.js, TypeScript, Stripe, Supabase, AI SDK, Vercel &nbsp; | &nbsp; [**Live**](https://aithesiswriter.io)
 
 ---
 
-### AI Thesis Starter — SaaS Boilerplate with Stripe
-> Production-ready starter kit for AI-powered SaaS applications
+### [Tokamak Chain Monitor](https://tokamak-chain-monitor.vercel.app/analytics) — L2 Observability Platform
+> Real-time observability and analytics for Tokamak L2 rollup chains
 
-- Full Stripe integration — Checkout sessions, webhook handling, subscription lifecycle management
-- Authentication and authorization flows with role-based access
-- AI-powered features with streaming responses
-- Clean architecture with type-safe API contracts
+- Live network analytics, health monitoring, and block production tracking
+- On-chain data pipelines via Viem RPC clients with resilient fallback mechanisms
+- AI-powered analysis agent for natural-language querying of chain metrics
+- Cross-chain dashboards, EIP-1559 fee visualization, PDF report export
 
-**Stack:** Next.js, TypeScript, Stripe, Supabase, AI SDK
+**Stack:** Next.js 15, TypeScript, Viem, TanStack Query, Tailwind CSS, AI SDK &nbsp; | &nbsp; [**Live**](https://tokamak-chain-monitor.vercel.app/analytics)
+
+---
+
+### [AI Computer Use Agent](https://ai-sdk-computer-use-theta-dun.vercel.app) — Browser Automation via AI
+> AI agent that controls a browser autonomously using computer use capabilities
+
+- AI SDK-powered agent with computer use tool calling for autonomous browser interaction
+- Real-time streaming of agent actions and screenshots
+- Built as a demonstration of production AI agent patterns
+
+**Stack:** Next.js, TypeScript, AI SDK, Vercel &nbsp; | &nbsp; [**Live**](https://ai-sdk-computer-use-theta-dun.vercel.app)
 
 ---
 
