@@ -1,157 +1,217 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
+<!-- header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=180&section=header&text=hey,%20i'm%20mirza%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=34&desc=i%20build%20things%20that%20ship%20%E2%80%94%20and%20ship%20fast&descAlignY=54&descSize=16&descColor=e2e8f0&animation=fadeIn"/>
 
-```
- Mirza Baig
- Senior Full-Stack Engineer  ·  AI-Native Developer  ·  Shipping Production Systems
-```
+<!-- typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=30&lines=full-stack+engineer+%C2%B7+ai-native+builder+%C2%B7+vibe+coder;shipping+saas+%C2%B7+agents+%C2%B7+backend+systems;next.js+%2B+typescript+%2B+postgres+%2B+vercel" />
+</a>
 
-<p>
-  <a href="https://linkedin.com/in/mirza-baig-590b1826b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:mirza.devs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://aithesiswriter.io"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MiirzaBaig&style=flat&color=6366f1&label=Profile+Views" />
-</p>
+<br/>
+
+<!-- badges -->
+<a href="https://linkedin.com/in/mirza-baig-590b1826b"><img src="https://img.shields.io/badge/-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mirza.devs@gmail.com"><img src="https://img.shields.io/badge/-email%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://aithesiswriter.io"><img src="https://img.shields.io/badge/-my%20saas%20%E2%86%97-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=MiirzaBaig&style=flat-square&color=a855f7&label=stalkers" />
+
+<br/><br/>
+
+<!-- quick stats row -->
+<img src="https://img.shields.io/badge/projects%20shipped-12+-6366f1?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/private%20commits-2.4k+-a855f7?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/ai%20tools-daily%20driver-ec4899?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/coffee%20today-4%20cups-f97316?style=for-the-badge&labelColor=1a1b27"/>
 
 </div>
 
 <br/>
 
-I design and ship backend-heavy production systems — **database schemas, API contracts, auth flows, payment integrations, AI agent pipelines** — on **Next.js + TypeScript + PostgreSQL + Vercel**. I use Claude Code and Cursor daily. Most of my work lives in private repos.
+## `> whoami`
 
-**India** · Open to remote & relocation
+senior full-stack dev who actually ships. i write backends, design schemas, wire up payments, build ai agent pipelines, and review every line before it hits prod. most of my work is in private repos — client projects, enterprise codebases, stuff i can't show here.
 
-<br/>
+i use **claude code** and **cursor** daily. not as a crutch — as a multiplier. i write the architecture, ai writes the boilerplate, i review everything.
 
----
-
-<br/>
-
-### Stack
-
-| | |
-|:--|:--|
-| **Languages** | TypeScript · JavaScript · Python · SQL |
-| **Frontend** | Next.js (App Router) · React · Tailwind CSS |
-| **Backend** | Node.js · Supabase · Prisma · REST · GraphQL |
-| **Data** | PostgreSQL · Redis · Supabase RLS · Edge Functions |
-| **Payments** | Stripe (Checkout · Webhooks · Subscriptions) |
-| **Infra** | Vercel · Docker · GitHub Actions |
-| **AI** | Claude Code · Cursor · AI SDK · AI Gateway · Agents |
-| **Testing** | Vitest · Playwright |
+**based in india** · down for remote · open to relocation
 
 <br/>
 
----
+## `> tech --stack`
+
+```js
+const mirza = {
+  code:        ["TypeScript", "JavaScript", "Python", "SQL"],
+  frontend:    ["Next.js (App Router)", "React", "Tailwind CSS"],
+  backend:     ["Node.js", "Supabase", "Prisma", "REST", "GraphQL"],
+  data:        ["PostgreSQL", "Redis", "Supabase RLS"],
+  payments:    ["Stripe Checkout", "Webhooks", "Subscriptions"],
+  infra:       ["Vercel", "Docker", "GitHub Actions"],
+  ai:          ["Claude Code", "Cursor", "AI SDK", "AI Gateway"],
+  testing:     ["Vitest", "Playwright"],
+  currentVibe: "mass deploying at 2am with lo-fi on"
+};
+```
 
 <br/>
 
-### Shipped
+## `> ls ./shipped`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[AI Thesis Writer](https://aithesiswriter.io)** &nbsp; `LIVE SAAS`
+### [`aithesiswriter.io`](https://aithesiswriter.io) &nbsp; <img src="https://img.shields.io/badge/LIVE-SaaS-6366f1?style=flat-square"/>
 
-AI-powered thesis generation — 57+ languages, essay to PhD.
+my actual saas product. generates full academic papers.
 
-- 19-agent orchestration pipeline
-- Stripe billing with tiered subscriptions
-- PDF + DOCX export with real citations
-- Low AI-detectability on premium tier
+```
+→  19 ai agents in one pipeline
+→  stripe billing (free/starter/pro)
+→  pdf + docx export
+→  real citations, not hallucinated ones
+→  57+ languages
+→  essay to phd dissertation
+```
 
-`Next.js` `TypeScript` `Stripe` `Supabase` `AI SDK`
+`next.js` `typescript` `stripe` `supabase` `ai sdk`
 
 </td>
 <td width="50%" valign="top">
 
-**[Tokamak Chain Monitor](https://tokamak-chain-monitor.vercel.app/analytics)** &nbsp; `LIVE`
+### [`chain monitor`](https://tokamak-chain-monitor.vercel.app/analytics) &nbsp; <img src="https://img.shields.io/badge/LIVE-Tool-a855f7?style=flat-square"/>
 
-Real-time L2 rollup observability and analytics.
+real-time l2 rollup observability dashboard.
 
-- On-chain data via Viem with fallback RPCs
-- AI agent for natural-language chain queries
-- EIP-1559 fee trends + block monitoring
-- PDF report export
+```
+→  on-chain data via viem + fallback rpcs
+→  ai agent for querying chain metrics
+→  eip-1559 fee trend visualization
+→  block production monitoring
+→  pdf health reports
+```
 
-`Next.js 15` `TypeScript` `Viem` `TanStack Query` `AI SDK`
+`next.js 15` `typescript` `viem` `tanstack query` `ai sdk`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[AI Computer Use Agent](https://ai-sdk-computer-use-theta-dun.vercel.app)** &nbsp; `LIVE`
+### [`computer use agent`](https://ai-sdk-computer-use-theta-dun.vercel.app) &nbsp; <img src="https://img.shields.io/badge/LIVE-Agent-ec4899?style=flat-square"/>
 
-AI agent that autonomously controls a browser.
+ai that controls a browser by itself. yeah.
 
-- Computer use tool calling via AI SDK
-- Real-time action streaming + screenshots
-- Production agent architecture patterns
+```
+→  computer use via ai sdk
+→  real-time action streaming
+→  screenshot capture loop
+→  autonomous navigation
+```
 
-`Next.js` `TypeScript` `AI SDK` `Vercel`
+`next.js` `typescript` `ai sdk` `vercel`
 
 </td>
 <td width="50%" valign="top">
 
-**[Mathly](https://github.com/MiirzaBaig/mathly)**
+### [`mathly`](https://github.com/MiirzaBaig/mathly) &nbsp; <img src="https://img.shields.io/badge/PUBLIC-Repo-6b7280?style=flat-square"/>
 
-Interactive math learning platform.
+interactive math platform for students.
 
-- Adaptive problem generation
-- Progress tracking and analytics
-- Clean, accessible UI
+```
+→  adaptive problem generation
+→  progress tracking
+→  clean accessible ui
+→  built in a weekend tbh
+```
 
-`Next.js` `TypeScript`
+`next.js` `typescript`
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>+ more in private repos</b> (client work, enterprise, internal tools)</summary>
 <br/>
 
----
+i've shipped across **hospitality platforms, proptech dashboards, payment systems, admin panels, ai workflows, and automation tools**. most of it is under nda or in org repos. happy to walk through architecture in a call.
+
+</details>
 
 <br/>
 
-### How I Work With AI
+## `> cat ./ai-workflow.md`
 
 ```
-Claude Code    →  architecture, code review, debugging, backend logic
-Cursor         →  rapid UI iteration, multi-file refactoring
-AI SDK         →  tool-calling agents, streaming interfaces, durable workflows
-Code Review    →  every AI-generated line reviewed for security, correctness, API accuracy
+┌─────────────────────────────────────────────────────────┐
+│                    how i build with ai                   │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  claude code  ───→  backend logic, architecture,        │
+│                     debugging, code review               │
+│                                                         │
+│  cursor       ───→  ui iteration, multi-file            │
+│                     refactoring, rapid prototyping        │
+│                                                         │
+│  ai sdk       ───→  tool-calling agents, streaming      │
+│                     interfaces, durable workflows        │
+│                                                         │
+│  my job       ───→  review every line. catch bad apis,  │
+│                     wrong versions, security holes.       │
+│                     ai writes fast. i make it correct.   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-> I verify AI output against docs before merging. I catch hallucinated functions,
-> wrong SDK versions, and missing error handling. AI writes fast — I make it correct.
-
 <br/>
 
----
-
-<br/>
+## `> git log --graph`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=00000000&count_private=true&include_all_commits=true&ring_color=6366f1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&bg_color=00000000&count_private=true&include_all_commits=true&ring_color=ec4899" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiirzaBaig&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </picture>
-&nbsp;&nbsp;
+&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MiirzaBaig&theme=transparent&hide_border=true&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&stroke=00000000&background=00000000" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MiirzaBaig&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MiirzaBaig&theme=transparent&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&stroke=00000000&background=00000000" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MiirzaBaig&hide_border=true" />
 </picture>
 
 <br/><br/>
 
-<sub>Most of my contributions are in private repositories. The graph doesn't tell the full story.</sub>
+<!-- contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MiirzaBaig&bg_color=00000000&color=a855f7&line=6366f1&point=ec4899&area=true&area_color=6366f1&hide_border=true&custom_title=contribution%20activity" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MiirzaBaig&hide_border=true&custom_title=contribution%20activity" />
+</picture>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer"/>
+<img src="https://img.shields.io/badge/psst-most%20of%20my%20commits%20are%20in%20private%20repos-1a1b27?style=flat-square&labelColor=1a1b27&color=6366f1"/>
+
+<br/><br/>
+
+<!-- trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=MiirzaBaig&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+
+</div>
+
+<br/>
+
+## `> echo "let's talk"`
+
+<div align="center">
+
+building something cool? need a backend brain? want someone who actually reviews ai output before merging?
+
+**[hit me up](mailto:mirza.devs@gmail.com)** · **[linkedin](https://linkedin.com/in/mirza-baig-590b1826b)** · **[check my saas](https://aithesiswriter.io)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=100&section=footer"/>
 
 </div>
