@@ -115,7 +115,7 @@ ai that controls a browser by itself. yeah.
 </td>
 <td width="50%" valign="top">
 
-### [`mathly`](https://github.com/MiirzaBaig/mathly) &nbsp; <img src="https://img.shields.io/badge/PUBLIC-Repo-6b7280?style=flat-square"/>
+### [`mathly`](https://mathy-sigma.vercel.app/) &nbsp; <img src="https://img.shields.io/badge/LIVE-App-6b7280?style=flat-square"/>
 
 interactive math platform for students.
 
