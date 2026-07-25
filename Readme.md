@@ -187,26 +187,44 @@ i've shipped across **hospitality platforms, proptech dashboards, payment system
 
 ## `> cat ./ai-workflow.md`
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    how i build with ai                   │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  claude code  ───→  backend logic, architecture,        │
-│                     debugging, code review               │
-│                                                         │
-│  cursor       ───→  ui iteration, multi-file            │
-│                     refactoring, rapid prototyping        │
-│                                                         │
-│  ai sdk       ───→  tool-calling agents, streaming      │
-│                     interfaces, durable workflows        │
-│                                                         │
-│  my job       ───→  review every line. catch bad apis,  │
-│                     wrong versions, security holes.       │
-│                     ai writes fast. i make it correct.   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=34&lines=idea+%E2%86%92+architecture+%E2%86%92+agent+assist+%E2%86%92+human+review+%E2%86%92+ship;ai+brings+speed.+taste+keeps+it+real.;build+the+system%2C+then+let+the+tools+cook." />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/01-architect-6366f1?style=for-the-badge&labelColor=1a1b27"/>
+  <br/><br/>
+  start with the why, map the system, then make the messy idea feel obvious
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/02-agent%20mode-a855f7?style=for-the-badge&labelColor=1a1b27"/>
+  <br/><br/>
+  use claude code, cursor, and ai sdk to turn sharp intent into real product
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/03-review%20hard-ec4899?style=for-the-badge&labelColor=1a1b27"/>
+  <br/><br/>
+  read the diff like production depends on it, because literally, it does
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/04-ship%20clean-22c55e?style=for-the-badge&labelColor=1a1b27"/>
+  <br/><br/>
+  deploy fast, watch the signal, improve the loop, keep the momentum alive
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:22c55e&height=2&section=footer"/>
+
+</div>
 
 <!-- animated line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
