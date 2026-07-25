@@ -36,54 +36,61 @@
 <!-- animated line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `> neofetch`
+## `> ./mirza --terminal-mode`
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=34&lines=quiet+builder.+loud+launches.;ai-native%2C+human-reviewed%2C+prod-ready.;portfolio+has+the+receipts." />
+</a>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 <pre>
-                   **######
-             ****###:#:@@@@@@@#**
-          ******#@*:*#@@@@@@@@@@@*::
-       ********#@@@@@@@@@@@@@@@@@@*::::
-      ::**::**#@@@@@@@@@@@@@@@@@@@*:::::
-    ::*::::#@#*@@@@@@@@@@@@@@@@@@@*:::::::
-   ::::::::*::*@@@@@@@@@@@@@@@@@@#:::::::::
-  ::::::::::::*@@@@@@@@@@@@@@@@@@*::::::::::
- :::::::::::::#@@@@@@@@@@@@@@@@@@#:::::::::::
- :::::::::::::*@@@@@@@@@@@@@@@@@@*:::::::::::
-:::::::::::::::@@@@@@@@@@@@@@@#*::::::::::::::
-:::::::::::::::*@@@@@@@@@@@@@@::::::::::::::::
-::::::::::::::::#@@@@@@@@@@@@#::::::::::::::::
-:::::::::::::::::#@@@@@@@@@@@@*:::::::::::::::
- ::::::::::::::::::@@@@@@@@@@@@@#*:::::::::::
- :::::::::::::::*#**@@@@@@@@@@@@@@@*:::::::::
-  :::::::::::**#@@@@@@@@@@@@@@@@@@@@@@#*:::::
-   ::::::**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*:
-    ::::#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-      *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-          @@@@@@@@@@@@@@@@@@@@@@@@@@
-             @@@@@@@@@@@@@@@@@@@@
-                   @@@@@@@@
+             .::::::::::::.
+         .::::::.......::::::.
+       .:::::    .---.    :::::.
+      ::::::    ( o o )    ::::::
+     :::::::      \_/      :::::::
+    ::::::::.             .::::::::
+   :::::::::::..       ..::::::::::
+   ::::::::::::*#@@@@@#*:::::::::::
+   ::::::::::*@@@@@@@@@@@*:::::::::
+    :::::::*@@@@@@@@@@@@@@@*::::::
+     ::::*@@@@@@@@@@@@@@@@@@@*::::
+      ::#@@@@@@@@@@@@@@@@@@@@@#::
+        *@@@@@@@@@@@@@@@@@@@@@*
+          #@@@@@@@@@@@@@@@@@#
+             *@@@@@@@@@@@*
+                *@@@@@*
 </pre>
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
 <pre>
-mirza@github
------------
-handle:    MiirzaBaig
-name:      Mirza
-title:     Agentic Engineer
-focus:     web platforms
-           ai workflows
-           backend systems
-dp:        github avatar, ascii-fied
-portfolio: persona-t82m.vercel.app
-vibe:      terminal energy + shipped receipts
+mirza@shipstation
+-----------------
+$ whoami
+agentic engineer building web platforms
+and ai workflows that survive prod
+
+$ current_mode
+architect first. agent-assisted after.
+ship fast, but keep the taste high.
+
+$ receipts
+portfolio -> persona-t82m.vercel.app
+saas      -> aithesiswriter.io
+
+$ status
+building quietly. deploying loudly.
 </pre>
 
 </td>
