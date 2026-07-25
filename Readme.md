@@ -13,8 +13,15 @@
 <!-- social badges -->
 <a href="https://linkedin.com/in/mirza-baig-590b1826b"><img src="https://img.shields.io/badge/-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mirza.devs@gmail.com"><img src="https://img.shields.io/badge/-email%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://persona-t82m.vercel.app/"><img src="https://img.shields.io/badge/-portfolio%20%F0%9F%91%80-111827?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://aithesiswriter.io"><img src="https://img.shields.io/badge/-my%20saas%20%E2%86%97-000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=MiirzaBaig&style=flat-square&color=a855f7&label=stalkers" />
+
+<br/><br/>
+
+<a href="https://persona-t82m.vercel.app/">
+  <img src="https://img.shields.io/badge/portfolio-live%20receipt-22c55e?style=for-the-badge&labelColor=1a1b27&logo=vercel&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -37,10 +44,13 @@
  focus:    backends, ai agents, payment systems
  mode:     ai-native (claude code + cursor daily)
  location: india (open to remote / relocation)
+ portfolio: persona-t82m.vercel.app
  status:   probably shipping something rn
 ```
 
 i write backends, design schemas, wire up payments, build ai agent pipelines, and review every line before it hits prod. most of my work is in private repos — client projects, enterprise stuff, things i can't show here.
+
+want the receipts? **[portfolio is right here](https://persona-t82m.vercel.app/)**.
 
 i use **claude code** and **cursor** daily. not as a crutch — as a multiplier. i write the architecture, ai writes the boilerplate, i review everything.
 
@@ -253,7 +263,7 @@ i've shipped across **hospitality platforms, proptech dashboards, payment system
 
 building something cool? need a backend brain who actually reviews ai output before merging?
 
-**[hit me up](mailto:mirza.devs@gmail.com)** · **[linkedin](https://linkedin.com/in/mirza-baig-590b1826b)** · **[check my saas](https://aithesiswriter.io)**
+**[portfolio](https://persona-t82m.vercel.app/)** · **[hit me up](mailto:mirza.devs@gmail.com)** · **[linkedin](https://linkedin.com/in/mirza-baig-590b1826b)** · **[check my saas](https://aithesiswriter.io)**
 
 <br/>
 
